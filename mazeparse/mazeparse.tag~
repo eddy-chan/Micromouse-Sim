@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>
+<tagfile>
+  <compound kind="dir">
+    <name>mazeparse/</name>
+    <path>/.homes/plum1/edc529/mazeparse/</path>
+    <filename>dir_7028ef0b62ee4c9a33a94bf98256d474.html</filename>
+    <dir>mazeparse/src/</dir>
+  </compound>
+  <compound kind="dir">
+    <name>mazeparse/src/</name>
+    <path>/.homes/plum1/edc529/mazeparse/src/</path>
+    <filename>dir_48143dd767c310f134a21cb0f72c9a49.html</filename>
+    <file>mazelib.c</file>
+  </compound>
+</tagfile>
